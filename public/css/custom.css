@@ -1,0 +1,61 @@
+.landing {
+    background-image: url('../../IP3/assets/backgrounds/h_image.jpg');    
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+   }
+.about{
+    text-align: center;
+  }
+
+.services {
+    background-image: url('../../IP3/assets/backgrounds/s_image.JPG');
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    place-items: center;
+  }
+  .what-we-do{
+    text-align: center;
+    display: grid;
+    padding: 1%;
+  }
+  .row-what-we-do{
+    align-items: center;
+    grid-gap: 15px;
+    padding-left: 15%;
+}
+.portfolio{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: grid;
+    place-items: center;
+}
+.contact{
+    background-image: url('../../IP3/assets/backgrounds/c_image.JPG');
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    }
+
+.column {
+    float: left;
+    width: 25%;
+}
+.row {
+    display: table;
+    clear: both;
+}
+textarea {
+    width: 400px;
+    height: 200px;
+}
+
+footer{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font: bolder;
+}
